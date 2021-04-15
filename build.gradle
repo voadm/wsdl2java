@@ -11,8 +11,8 @@ group = 'no.nils'
 version = '0.13-SNAPSHOT'
 
 // stay compatible with the crowd
-sourceCompatibility = JavaVersion.VERSION_1_6
-targetCompatibility = JavaVersion.VERSION_1_6
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
 
 repositories {
     jcenter()
